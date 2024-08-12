@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-11T19:00:30 EET" name="Default suite" finished-at="2024-08-11T19:01:10 EET" duration-ms="39858">
+    <groups>
+    </groups>
+    <test started-at="2024-08-11T19:00:30 EET" name="Default test" finished-at="2024-08-11T19:01:10 EET" duration-ms="39858">
+      <class name="ThrdTrailTestWomenAdding">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:ThrdTrailTestWomenAdding@757d6814]" started-at="2024-08-11T19:00:30 EET" name="mySetup" finished-at="2024-08-11T19:00:55 EET" duration-ms="24930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="CreateAnAccount()[pri:1, instance:ThrdTrailTestWomenAdding@757d6814]" started-at="2024-08-11T19:00:55 EET" name="CreateAnAccount" finished-at="2024-08-11T19:01:02 EET" duration-ms="7075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAccount -->
+        <test-method signature="addWomenItem()[pri:4, instance:ThrdTrailTestWomenAdding@757d6814]" started-at="2024-08-11T19:01:02 EET" name="addWomenItem" finished-at="2024-08-11T19:01:10 EET" duration-ms="7825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addWomenItem -->
+      </class> <!-- ThrdTrailTestWomenAdding -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
